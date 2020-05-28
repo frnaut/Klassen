@@ -1,0 +1,15 @@
+D:\Desarrollo\Proyectos\Klassen\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Desarrollo\Proyectos\Klassen\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Desarrollo\Proyectos\Klassen\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\Desarrollo\Proyectos\Klassen\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Desarrollo\Proyectos\Klassen\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Desarrollo\Proyectos\Klassen\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\Desarrollo\Proyectos\Klassen\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\Desarrollo\Proyectos\Klassen\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+D:\Desarrollo\Proyectos\Klassen\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Desarrollo\Proyectos\Klassen\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Desarrollo\Proyectos\Klassen\Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\Desarrollo\Proyectos\Klassen\Data\bin\Debug\netcoreapp3.1\Core.dll
+D:\Desarrollo\Proyectos\Klassen\Data\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Desarrollo\Proyectos\Klassen\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+D:\Desarrollo\Proyectos\Klassen\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+D:\Desarrollo\Proyectos\Klassen\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Desarrollo\Proyectos\Klassen\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Desarrollo\Proyectos\Klassen\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+D:\Desarrollo\Proyectos\Klassen\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Desarrollo\Proyectos\Klassen\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Desarrollo\Proyectos\Klassen\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+D:\Desarrollo\Proyectos\Klassen\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+D:\Desarrollo\Proyectos\Klassen\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache
+D:\Desarrollo\Proyectos\Klassen\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Desarrollo\Proyectos\Klassen\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Desarrollo\Proyectos\Klassen\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\Desarrollo\Proyectos\Klassen\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
